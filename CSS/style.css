@@ -27,8 +27,8 @@
     backdrop-filter: blur(5px);
 }
 .card img{
-    width: 150px;
-    border-radius: 30px 30px;
+    width: 140px;
+    border-radius:50%;
 }
 .card h2{
     font-size: 40px;
